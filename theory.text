@@ -1,0 +1,34 @@
+ES-5
+ES-6
+
+===Way of Writing Javascript===
+
+1. Inline
+2. Internal
+3. External
+
+
+====Javascript Variable===
+
+Way of Writing Variable....
+
+1. General Way
+2. using let
+3. using var
+4. using const pi=3.1416....... g = 9.8g
+
+
+=====Rules of declaring Variable====
+
+x, y, z, abc, muntasir, result, realNumber, number1, number2, real_Number
+
+
+real Number. real-Number, 2number, special Caharacter
+
+
+=====Operator=====
+
+1. Arithmetic Operator (+, -, *, /, %, ++, --)
+2. Assignment Operator (=, +=, -=)
+3. Logical Operator (||, &&, !)
+4. Relational Operator/Comparison Operator (<, >, <=, >=, !=, ==, ===)
